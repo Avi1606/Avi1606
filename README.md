@@ -31,6 +31,8 @@
 
 <img src="https://raw.githubusercontent.com/Avi1606/Avi1606/output/pacman-contribution-graph.svg" alt="Pacman animation" />
 
+###
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avi1606&show_icons=true&locale=en&layout=compact" alt="avi1606" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avi1606&show_icons=true&locale=en" alt="avi1606" /></p>
