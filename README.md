@@ -1,3 +1,4 @@
+![logo](https://github.com/Avi1606/Avi1606/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Avi !</h1>
 <h3 align="center">ava & Spring Boot | Full-Stack | Building Scalable Apps | DSA Enthusiast</h3>
 
