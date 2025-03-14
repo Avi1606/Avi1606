@@ -1,6 +1,6 @@
 ![Header Animation](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
 
-<h1 align="center">Hi 👋, I'm Avi!</h1>
+<h1 align="center">Hi 👋, I'm Avi !</h1>
 <h3 align="center">Java & Spring Boot | Full-Stack Developer | Building Scalable Apps | DSA Enthusiast</h3>
 
 ---
