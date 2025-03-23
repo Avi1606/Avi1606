@@ -1,6 +1,10 @@
-
 <h1 align="center">Hi 👋, I'm Avi !</h1>
 <h3 align="center">Java & Spring Boot | Full-Stack Developer | Building Scalable Apps | DSA Enthusiast</h3>
+<p align="center">
+  <a href="https://avi1606.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-blue?style=for-the-badge&logo=firefox-browser" alt="My Portfolio"/>
+  </a>
+</p>
 
 ---
 
@@ -12,6 +16,7 @@
 - 🔭 Currently working on [Journal Application App](https://github.com/Avi1606/Journal-Appplication-Rest-API.git)
 - 🌱 Learning **React and React-Native**
 - 👨‍💻 Check out my projects: [GitHub Profile](https://github.com/Avi1606)
+- 🌐 **[View My Portfolio](https://avi1606.github.io/Portfolio/)** - Showcasing my recent work and skills
 - 📫 Reach me at **aviiiprajapati16@gmail.com**
 - 📄 View my resume: [My Resume](https://github.com/Avi1606/My-Resume)
 
@@ -20,6 +25,7 @@
 ## 📞 Connect With Me
 
 <p align="left">
+
 <a href="https://twitter.com/avi__16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avi__16" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aviiiprajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aviiiprajapati" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aviiiprajapati16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aviiiprajapati16" height="30" width="40" /></a>
@@ -65,5 +71,11 @@
 </p>
 
 ---
+
+<h3 align="center">
+  <a href="https://avi1606.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/✨ View My Portfolio ✨-https://avi1606.github.io/Portfolio/-0D9488?style=for-the-badge" alt="My Portfolio"/>
+  </a>
+</h3>
 
 ⭐ **Feel free to explore my repositories and contribute!**
