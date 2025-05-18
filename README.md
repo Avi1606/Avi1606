@@ -13,7 +13,6 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on [Journal Application App](https://github.com/Avi1606/Journal-Appplication-Rest-API.git)
 - 🌱 Learning **React and React-Native**
 - 👨‍💻 Check out my projects: [GitHub Profile](https://github.com/Avi1606)
 - 🌐 **[View My Portfolio](https://avi1606.github.io/Portfolio/)** - Showcasing my recent work and skills
