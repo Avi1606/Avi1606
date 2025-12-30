@@ -53,28 +53,10 @@
 
 ---
 
-## 📊 GitHub Stats & Contributions
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Avi1606&theme=dark&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avi1606&show_icons=true&locale=en" alt="avi1606" />
-</p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Avi1606/Avi1606/output/pacman-contribution-graph.svg" alt="Pacman animation" />
 </p>
 
----
 
-<h3 align="center">
-  <a href="https://avi1606.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/✨ View My Portfolio ✨-https://avi1606.github.io/Portfolio/-0D9488?style=for-the-badge" alt="My Portfolio"/>
-  </a>
-</h3>
 
 ⭐ **Feel free to explore my repositories and contribute!**
